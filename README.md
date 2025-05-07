@@ -1,2 +1,1 @@
-# mathematics
-notes on mathematics
+# Probability
