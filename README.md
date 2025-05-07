@@ -1,2 +1,5 @@
-# mathematics
-notes on mathematics
+# Multivariable Calculus
+
+## Reference
+
+- [Multivariable Calculus - G. Cain, J. Herod (Georgia Tech)](https://cain.math.gatech.edu/notes/calculus.html)
