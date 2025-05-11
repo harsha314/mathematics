@@ -7,3 +7,5 @@
 ## Chapter 3 - Vector Functions
 
 ## Chapter 4 - Derivatives
+
+## Chapter 6 - Linear Functions and Derivatives
